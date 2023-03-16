@@ -1,6 +1,7 @@
-Aircraft Emergency Landing Trajectory Density Algorithm
+## Algorithm for determining and generating the UAV landing trajectory
 
-This project aims to develop a program/algorithm for the density of the rarity trajectory of an aircraft to perform an emergency landing in the event of emergency situations during the flight of the aircraft that do not allow flight according to the flight plan (task). The algorithm will help in choosing a site for an emergency landing and the optimal trajectory of beauty. This may lead to a synchronization algorithm. The results of the crew commander's work algorithm in the process of piloting in order to reduce the decision-making time or by the trajectory contour of the flight control procedure for performing a forced landing in automatic mode.
+This project is aimed at developing a program / algorithm for the trajectory of an UAV aircraft to perform routes in case of emergency situations during the creation of an aircraft. The algorithm will help in choosing a landing site and finding an Australian trajectory.
+
 Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -38,4 +39,3 @@ Acknowledgments
 
     This project was inspired by the need for emergency landing trajectory density algorithm.
     Thanks to SciPy and scikit-learn for their useful libraries.
-

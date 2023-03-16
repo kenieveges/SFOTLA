@@ -33,7 +33,8 @@ python emergency_landing.py
 
 Authors
 
-    John Doe - Initial work - johndoe
+    Korobov - kenieveges
+    Author #2 - nickname_2
 
 Acknowledgments
 
